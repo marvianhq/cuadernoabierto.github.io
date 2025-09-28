@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotografía on Cuaderno Abierto</title>
+    <link>http://localhost:1313/fotografia/</link>
+    <description>Recent content in Fotografía on Cuaderno Abierto</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 28 Sep 2025 16:08:48 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/fotografia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis Primeras Fotos</title>
+      <link>http://localhost:1313/fotografia/mis-primeras-fotos/</link>
+      <pubDate>Sun, 28 Sep 2025 16:08:48 -0500</pubDate>
+      <guid>http://localhost:1313/fotografia/mis-primeras-fotos/</guid>
+      <description>&lt;p&gt;La fotografía para mí es una forma de detener el tiempo, de observar con calma aquello que muchas veces pasa desapercibido.&lt;/p&gt;&#xA;&lt;p&gt;En este espacio quiero compartir algunas de mis imágenes favoritas, con un estilo tropical y natural, cercano a lo que suelo editar en Lightroom.&lt;/p&gt;&#xA;&lt;p&gt;Muy pronto empezaré a subir aquí fotos de paisajes, viajes y momentos cotidianos 📸.&lt;/p&gt;&#xA;&lt;p&gt;Por ahora, esta es solo la primera entrada que marca el inicio de la sección de Fotografía en &lt;strong&gt;Cuaderno Abierto&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
